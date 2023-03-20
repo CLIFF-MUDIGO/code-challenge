@@ -44,7 +44,7 @@ To install all requirements That is vscode
 Then run server with the above command
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](https://beautiful-valkyrie-1fff2a.netlify.app/)
+Or you can access the web application directly via this [LINK.](https://endearing-kitsune-ec3feb.netlify.app/)
 *****
 ## Dependencies
 google
